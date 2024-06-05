@@ -21,13 +21,25 @@ Welcome to **Filmzy** – your ultimate destination for exploring, reviewing, an
 ## Screenshots
 
 ### Home Page
-![Home Page](path/to/homepage.png)
+![Avatar: The Way of Water](./screenshots/Avatar.png)
+
+![The Dark Knight](./screenshots/DarkKnight.png)
+
+![ShawShank](./screenshots/ShawShank.png)
+
+![Avengers](./screenshots/Avengers.png)
 
 ### Trailer Playback
-![Trailer Playback](path/to/trailerplayback.png)
+
+![Black Panther Trailer](./screenshots/BlackPantherTrailer.png)
+
+![Avengers Trailer](./screenshots/AvengersTrailer.png)
 
 ### User Reviews
-![User Reviews](path/to/userreviews.png)
+
+![Godfather Review](./screenshots/GodFatherReview.png)
+
+![The Dark Knight Review](./screenshots/DarkKnightReview.png)
 
 ## Installation
 
